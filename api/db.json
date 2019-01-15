@@ -12,9 +12,14 @@
     },
     {
       "title": "stream with userid",
-      "description": "this was made by me",
+      "description": "this change was made by patch request",
       "userId": "116211610931191912754",
       "id": 3
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "This stream is about refractoring!",
+      "id": 4
     }
   ]
 }
