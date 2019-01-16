@@ -70,4 +70,6 @@ export const createStream = formValues =>
      type: DELETE_STREAM,
      payload: id
    });
+
+   history.push('/');
  };
