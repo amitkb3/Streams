@@ -6,6 +6,7 @@
 /client/.pnp.js
 
 /api/node_modules
+/rtmpserver/node_modules
 
 
 # testing
